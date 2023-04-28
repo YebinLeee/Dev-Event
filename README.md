@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-90-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -198,6 +198,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `벡엔드`
   - 주최: 현대 자동차 그룹
   - 접수: 04. 24(월) ~ 05. 08(일)
+- __[부스트캠프 웹·모바일 8기 ＜온라인 설명회＞ 신청](https://form.office.naver.com/form/responseView.cmd?formkey=NDhmYTgzYTMtMDQ2Ni00ZTA1LWFhMDItZWNlYTY5YTNiNDg5&sourceId=urlshare)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 커넥츠재단
+  - 접수: 04. 28(금) ~ 05. 10(수)
 - __[Google I/O](https://io.google/2023/intl/ko/)__
   - 분류: `웨비나`, `컨퍼런스`
   - 주최: Google
@@ -254,6 +258,14 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Microsoft
   - 일시: 05. 23(화) ~ 05. 24(수)
+- __[2023 i-AWARDS(WEB/APP/iECO) TREND CONFERENCE(아이어워즈 트렌드 컨퍼런스)](https://build.microsoft.com/en-US/home)__
+  - 분류: `오프라인`, `유료`, `컨퍼런스`
+  - 주최: 한국인터넷전문가협회
+  - 일시: 05. 24(수) ~ 05. 25(목)
+- __[부스트캠프 웹·모바일 8기 ＜수료생과의 MeetUP＞ 신청](https://form.office.naver.com/form/responseView.cmd?formkey=ZTY2NTZiM2EtZmY2Ni00OTBiLTlhOGMtMDlhNGNiZmMwZmIz&sourceId=urlshare)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 커넥츠재단
+  - 접수: 04. 28(금) ~ 05. 24(수)
 - __[2023년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://www.herbnanum.org/load.asp?subPage=411.View&idx=2748)__
   - 분류: `대회`, `해커톤`
   - 주최: 보건복지부
@@ -577,6 +589,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jihyunmoon16"><img src="https://avatars.githubusercontent.com/u/87014797?v=4?s=100" width="100px;" alt="문지현"/><br /><sub><b>문지현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jihyunmoon16" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://capelladev.com"><img src="https://avatars.githubusercontent.com/u/16485236?v=4?s=100" width="100px;" alt="Inseo Lee"/><br /><sub><b>Inseo Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Capella87" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sn-Kinos"><img src="https://avatars.githubusercontent.com/u/26380261?v=4?s=100" width="100px;" alt="Yoo Dongryul"/><br /><sub><b>Yoo Dongryul</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Sn-Kinos" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://dream-and-develop.tistory.com/"><img src="https://avatars.githubusercontent.com/u/71310074?v=4?s=100" width="100px;" alt="Yebin Lee "/><br /><sub><b>Yebin Lee </b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=YebinLeee" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
